@@ -25,6 +25,7 @@ Percent Reduction in BAU Subsidies[petroleum gasoline] = 1
 Percent Reduction in BAU Subsidies[petroleum diesel] = 1
 Percent Reduction in BAU Subsidies[jet fuel] = 1
 Policy Implementation Schedule Selector = 3
+Fraction of Installation and System Integration Issues Remedied = 1
 Reduction in E Use Allowed by Component Eff Std[heating,urban residential] = 0.96
 Reduction in E Use Allowed by Component Eff Std[heating,rural residential] = 0.96
 Reduction in E Use Allowed by Component Eff Std[heating,commercial] = 0.89

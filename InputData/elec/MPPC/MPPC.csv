@@ -1,4 +1,4 @@
-,Minimum Capacity (MW)
+﻿,Minimum Capacity (MW)
 hard coal,258
 natural gas nonpeaker,154
 nuclear,1139
@@ -10,5 +10,5 @@ biomass,18
 geothermal,10
 petroleum,1
 natural gas peaker,50
-coal to gas,150
+coal to gas,50
 offshore wind,5
