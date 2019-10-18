@@ -1,4 +1,4 @@
-Fixed O&M ($/MW),preexisting retiring,preexisting nonretiring,newly built
+﻿Fixed O&M ($/MW),preexisting retiring,preexisting nonretiring,newly built
 hard coal,32117,0,75036
 natural gas nonpeaker,13564,0,15832
 nuclear,96093,0,96093
@@ -10,5 +10,5 @@ biomass,108823,0,108823
 geothermal,116316,0,116316
 petroleum,7798,0,7479
 natural gas peaker,7565,0,7256
-coal to gas,28651,0,28651
+coal to gas,21340,0,21340
 offshore wind,76231,0,76231

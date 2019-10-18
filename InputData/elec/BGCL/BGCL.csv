@@ -1,4 +1,4 @@
-Electricity Source,Lifetime (yr)
+﻿Electricity Source,Lifetime (yr)
 hard coal,45
 natural gas nonpeaker,45
 nuclear,60
@@ -10,5 +10,5 @@ biomass,45
 geothermal,30
 petroleum,45
 natural gas peaker,45
-coal to gas,45
+coal to gas,15
 offshore wind,30
