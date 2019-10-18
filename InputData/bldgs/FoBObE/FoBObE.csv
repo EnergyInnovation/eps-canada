@@ -1,0 +1,4 @@
+Cash Flow Entity,Urban Residential,Rural Residential,Commercial
+government,0.005,0.005,0.281
+industry,0.030,0.030,0.523
+consumers,0.965,0.965,0.197
