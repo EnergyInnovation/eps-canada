@@ -9,7 +9,7 @@ The Energy Policy Simulator (EPS) is a free and open-source computer model origi
 
 The Canada Energy Policy Simulator may be used on this website through your web browser, or the full version may be downloaded to your computer by clicking the button below.  Note that you will need to go through the steps explained on the [EPS download page](https://us.energypolicy.solutions/docs/download.html) in order to install the required software and make use of the full version of the model.
 
-<p><a href="https://us.energypolicy.solutions/eps-archive/eps-1.4.3-canada.zip" class="btn">Download the Energy Policy Simulator, Canada Version</a></p>
+<p><a href="https://github.com/Energy-Innovation/eps-canada/archive/1.4.3.zip" class="btn">Download the Energy Policy Simulator, Canada Version</a></p>
 
 ## Reference Scenarios
 

@@ -10,7 +10,7 @@ Le Simulateur de Politiques Énergétiques (SPÉ) est un modèle utilisable sur 
 
 Le Simulateur de Politiques Énergétiques pour le Canada peut être utilisé dans votre navigateur sur ce site Internet. Une version complète (en anglais) peut aussi être téléchargée sur votre ordinateur en cliquant sur le bouton ci-dessous. Des instructions incluant la liste des logiciels nécessaires pour exécuter la version locale du modèle sont disponibles sur la [page de téléchargement du SPÉ](https://us.energypolicy.solutions/docs/download.html) (en anglais).
 
-<p><a href="https://us.energypolicy.solutions/eps-archive/eps-1.4.3-canada.zip" class="btn">Télécharger le Simulateur de Politiques Énergétiques pour le Canada (en anglais)</a></p>
+<p><a href="https://github.com/Energy-Innovation/eps-canada/archive/1.4.3.zip" class="btn">Télécharger le Simulateur de Politiques Énergétiques pour le Canada (en anglais)</a></p>
 
 ## Scénarios de référence
 
