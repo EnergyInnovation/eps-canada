@@ -27,5 +27,5 @@ La documentation du modèle est disponible en ligne [ici](https://us.energypolic
 ## Autres informations utiles
 
 * [Contributeurs à la version canadienne](acknowledgement_fr.html)
-* [À propos de la licence du logiciel](software-license_fr.html)
+* [Licence logicielle et crédits d'image](software-license_fr.html)
 * Contactez [policysolutions@pembina.org](mailto:policysolutions@pembina.org) pour toute question (en anglais ou en français) sur le Simulateur de Politiques Énergétiques pour le Canada
