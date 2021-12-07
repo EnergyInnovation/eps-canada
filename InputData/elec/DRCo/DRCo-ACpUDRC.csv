@@ -1,4 +1,5 @@
-,cost ($/MW-yr)
-government,46986
-industry,46986
-consumers,73226
+Unit: $/MW,Cost
+government,23383
+domestic industries,23383
+labor and consumers,37946
+foreign entities,0
