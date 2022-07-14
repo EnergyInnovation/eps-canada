@@ -1,7 +1,7 @@
-Vehicle type,government,industry,consumers
-LDVs,0.003,0.001,0.996
-HDVs,0.140,0.860,0
-aircraft,0,1,0
-rail,1,0,0
-ships,0,1,0
-motorbikes,0.002,0,0.998
+Fraction Owned by Entity (dimensionless),government,domestic industries,labor and consumers,foreign entities
+LDVs,0.002560718,0.002385775,0.995053508,0
+HDVs,0.493759703,0.506240297,0,0
+aircraft,0,1,0,0
+rail,0.987572934,0.012427066,0,0
+ships,0,0,1,0
+motorbikes,0.001563639,0,0.998436361,0
