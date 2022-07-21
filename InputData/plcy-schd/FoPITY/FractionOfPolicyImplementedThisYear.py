@@ -17,7 +17,7 @@
 
 # Global Constants
 # ----------------
-FirstYear = 2020 # Update this based on the first simulated year of the model run.
+FirstYear = 2019 # Update this based on the first simulated year of the model run.
 FinalYear = 2100 # This should be the final year supported by EPS.mdl (i.e., 2100), not the final year actually used in a given region.
 MaxSchedules = 9
 MaxSubscripts = 3
