@@ -1,14 +1,14 @@
 MW,urban residential,rural residential,commercial
 hard coal,0,0,0
-natural gas nonpeaker,0,0,60.02737464
+natural gas nonpeaker,0,0,51.26861795
 nuclear,0,0,0
-hydro,0,0,54.40618768
-onshore wind,0.473584672,0.108871666,144.871
-solar PV,609.5574139,140.1302338,442.5934291
+hydro,0,0,46.46763359
+onshore wind,0.268888261,0.396108507,123.7324803
+solar PV,346.0898176,509.8367648,378.013424
 solar thermal,0,0,0
-biomass,0,0,22.60128567
+biomass,0,0,19.30347091
 geothermal,0,0,0
-petroleum,0,0,4.165674853
+petroleum,0,0,3.557849962
 natural gas peaker,0,0,0
 lignite,0,0,0
 offshore wind,0,0,0
