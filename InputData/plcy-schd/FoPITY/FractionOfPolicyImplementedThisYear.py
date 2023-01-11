@@ -460,7 +460,7 @@ PolicyElements = (
   ),
   (("elec renewable portfolio standards"),
     ("Schedule 1",(2019,0),(2021,0),(2050,1)),
-    ("Schedule 2",(2019,0),(2021,0),(2022,0.425528),(2030,0.8),(2035,1),(2050,1)),
+    ("Schedule 2",(2019,0),(2021,0),(2022,0.81),(2030,0.85),(2035,1),(2050,1)),
   ),
   (("elec ban new power plants","hard coal es"),
     ("Schedule 1",(2019,0),(2021,0),(2022,1),(2050,1)),
